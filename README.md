@@ -1,6 +1,6 @@
 # Prerequisites
-## change made
-- JDK 20 
+## CHANGE MADE
+- JDK 21
 - Maven 3.9 
 - MySQL 8
 
