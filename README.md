@@ -1,10 +1,10 @@
 # Prerequisites
-## CHANGE MADE
+### CHANGE MADE
 - JDK 21
 - Maven 3.9 
 - MySQL 8
 
-## Section
+## New Section
 ### Little subsection
 - Practicing Push (Follow tags)
 - realese v3.5.5
